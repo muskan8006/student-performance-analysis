@@ -1,4 +1,4 @@
-﻿# 🎯 Student Performance Analysis & Prediction System
+﻿# 🎯 Student Performance Analysis 
 
 ## 📌 Objective
 Analyze and predict student performance using study hours and attendance.
