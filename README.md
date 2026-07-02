@@ -1,4 +1,4 @@
-﻿# 🎯 Student Performance Analysis 
+﻿# 🎯 Student Performance Analysis like result 
 
 ## 📌 Objective
 Analyze and predict student performance using study hours and attendance.
